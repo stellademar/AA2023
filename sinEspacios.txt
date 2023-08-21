@@ -1,0 +1,1 @@
+﻿Estearchivodeentradatienevariaslineas.Podriatenerdatosdedistintostipos,peroporahorasolonosinteresaquecopienestearchivoconcadalineacomoviene,en"salida.txt"¡Noseolvidendeestaultimalineas!
